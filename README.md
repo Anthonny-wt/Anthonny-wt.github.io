@@ -14,8 +14,8 @@ En este repositorio encontrarás una selección de mis proyectos, certificados y
 - **Contacto**: ¿Interesado en trabajar juntos o simplemente quieres saludar? ¡No dudes en ponerte en contacto conmigo!
 
 ## Contacto
-- **Correo electrónico**: [tu@email.com](70941837@continental.edu.pe)
--**LinkedIn**: [linkedin.com/in/ruben-anthony-dominguez-huaman-b53a3a201](https://www.linkedin.com/in/ruben-anthony-dominguez-huaman-b53a3a201)
-- **Sitio web**: [Anthonny-wt.github.io](https://Anthonny-wt.github.io)
+- **Correo electrónico**:(70941837@continental.edu.pe)
+-**LinkedIn**:(https://www.linkedin.com/in/ruben-anthony-dominguez-huaman-b53a3a201)
+- **Sitio web**:(https://Anthonny-wt.github.io)
 
 ¡Gracias por visitar mi portafolio! Espero que encuentres algo interesante aquí. ¡No dudes en ponerte en contacto si tienes alguna pregunta o comentario!
