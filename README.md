@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi portafolio!
 
-![Banner](https://via.placeholder.com/800x200)
+![Banner](https://github.com/Anthonny-wt/Anthonny-wt.github.io/assets/121044960/bfcd1295-ed8e-4c4a-8bc7-c96d8478407c)
 
 ## Acerca de mí
 ¡Hola! Soy Ruben Anthonny Dominguez Huaman, estudiante de Ingeniería de Sistemas e Informática apasionado por la tecnología y el desarrollo de software. Mi objetivo es seguir aprendiendo y creciendo en el campo de la tecnología mientras contribuyo con soluciones innovadoras.
